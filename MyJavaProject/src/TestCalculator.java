@@ -1,7 +1,7 @@
 public class TestCalculator {
 
 	public static void main(String[] args) {
-		add (10,20);
+		add (50,20);
 
 	}
 

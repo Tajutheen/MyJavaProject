@@ -1,5 +1,3 @@
-package com.cg.sample;
-
 public class TestCalculator {
 
 	public static void main(String[] args) {
